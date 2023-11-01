@@ -1,0 +1,58 @@
+
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    font-family: 'Anonymous Pro', monospace;
+}
+.box{
+    border-color: linear-gradient(red, yellow);
+    border-color: black;
+    border-style: solid;
+    border-width: 2px;
+    margin:100px auto;
+    width:400px;
+    height: 500px;
+    border-radius: 10px;
+    border: 1px solid;
+    padding: 10px;
+    box-shadow: 5px 10px #888888;
+    background-color: #93B1A6;
+    color: #183D3D;
+}
+.box h1{
+    text-align: center;
+    margin: 25px;
+}
+.pic{
+    width:200px;
+    height:200px;
+}
+.text{
+    font-size: 15px;
+}
+.text2{
+    font-size: 15px;
+}
+.contact{
+    font-size: 50px;
+    
+}
+.contact p {
+    text-align: center;
+    
+}
+.contact p i {
+    margin: 20px;
+    color: #183D3D;
+    
+}
+.but{
+    border-radius: 100%;
+    float: right;
+    margin: 10px;
+    background: #183D3D;
+    height:70px;
+    color: white;
+}
